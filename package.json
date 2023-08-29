@@ -1,0 +1,19 @@
+{
+  "name": "push-env-core",
+  "version": "1.0.0",
+  "description": "Content recipes for docker environment creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danilocgsilva/push-env-core.git"
+  },
+  "author": "Danilo Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danilocgsilva/push-env-core/issues"
+  },
+  "homepage": "https://github.com/danilocgsilva/push-env-core#readme"
+}
