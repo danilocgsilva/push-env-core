@@ -4,6 +4,6 @@ export default class PushEnvCore
 
     public process(): void
     {
-        console.log("Now yes!")
+        console.log(`Now yes! The name is ${this.name}`)
     }
 }
